@@ -1,5 +1,7 @@
-# { name } resume
+# bravo-mym resume
 
+
+https://bravo-mym.github.io/resume/
 ## Sample
 
 https://github.com/kawamataryo/resume
