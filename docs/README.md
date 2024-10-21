@@ -60,6 +60,9 @@
     - ElasticCache
     - CodeDeploy
     - Amplify
+    - Bedrock
+        - Claude
+        - TitanText
 
 - GCP
     - Compute Engine
